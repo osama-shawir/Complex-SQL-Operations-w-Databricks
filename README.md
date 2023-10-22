@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/SQL-Database-Operations-with-Python-Script-Osama/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/SQL-Database-Operations-with-Python-Script-Osama/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/Complex-SQL-Operations-w-Databricks/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Complex-SQL-Operations-w-Databricks/actions/workflows/cicd.yml)
 
 # Databricks and SQLite Project | Load, Transform, Query, and run CRUD operations on Data
 
