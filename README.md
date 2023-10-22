@@ -10,6 +10,7 @@ This project also involves SQL data processing in Databricks tasks that revolve 
 
 The project is organized as follows:
 
+
 - **Data**: This directory contains the input data files.
 
   - `personal_info.csv`: A CSV file containing personal information for individuals, including their Social Security Numbers (SSN), names, addresses, and other details.
