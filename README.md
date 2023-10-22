@@ -18,8 +18,7 @@ The project is organized as follows:
  
 The images below demonstrate the query and a snapshot of the output. The original tables and the output table as person_income.csv are all in the data directory.
 
-
-![Alt Text](pipeline.png)
+![Alt Text](dbs.png)
 
 
 ## Features
@@ -29,6 +28,9 @@ The images below demonstrate the query and a snapshot of the output. The origina
 - Execute SQL queries for data analysis.
 - Implement CRUD operations (Create, Read, Update, Delete) for database records.
 - Automate data pipeline operations with CI/CD.
+
+
+![Alt Text](pipeline.png)
 
 ## Usage
 
