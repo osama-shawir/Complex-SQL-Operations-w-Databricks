@@ -1,8 +1,23 @@
 [![CI](https://github.com/nogibjj/SQL-Database-Operations-with-Python-Script-Osama/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/SQL-Database-Operations-with-Python-Script-Osama/actions/workflows/cicd.yml)
 
-# SQLite Project | Load, Transform, Query, and run CRUD operations on Data
+# Databricks and SQLite Project | Load, Transform, Query, and run CRUD operations on Data
 
 This project demonstrates a robust data pipeline using SQLite, encompassing data loading, transformation, querying, and CRUD (Create, Read, Update, Delete) operations. The project is set up to run Continuous Integration and Continuous Deployment (CI/CD) pipelines, automating various database operations with each push to the repository. Additionally, it provides the flexibility to execute queries via the command line interface (CLI) with optional query output, allowing for efficient data analysis and management.
+
+This project also involves SQL data processing in Databricks tasks that revolve around two main datasets: one containing personal information for a group of people and the other containing their income details. The project aims to combine these datasets, filter the records to include higher incomes only, and sort the resulting data by income in ascending order.
+
+## Project Structure | SQL in Databricks
+
+The project is organized as follows:
+
+- **Data**: This directory contains the input data files.
+
+  - `personal_info.csv`: A CSV file containing personal information for individuals, including their Social Security Numbers (SSN), names, addresses, and other details.
+
+  - `income_data.csv`: A CSV file containing income information for individuals, including their SSNs, income values, and related data.
+ 
+The images below demonstrate the query and a snapshot of the output. The original tables and the output table as person_income.csv are all in the data directory.
+
 
 ![Alt Text](pipeline.png)
 
