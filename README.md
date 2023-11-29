@@ -13,7 +13,7 @@ This project demonstrates the implementation of an ETL (Extract, Transform, Load
 
 - **Data**: This directory contains the input data files.
 
-  - `Admissions.csv`: A CSV file containing personal information for individuals, including their Social Security Numbers (SSN), names, addresses, and other details.
+  - `Admissions.csv`: A CSV file containing information for school applicants, including their GPA, standardized test scores, and other details.
 
 <img width="509" alt="image" src="https://github.com/osama-shawir/Complex-SQL-Operations-w-Databricks/assets/89782802/a37e98b9-a1ab-4b6c-b793-7b4676ee1530">
 
