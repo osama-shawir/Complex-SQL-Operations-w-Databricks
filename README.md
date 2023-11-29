@@ -5,7 +5,7 @@
 # ETL Pipeline with Delta Lake in Databricks
 
 ## Overview
-This project demonstrates the implementation of an ETL (Extract, Transform, Load) pipeline using Databricks, Delta Lake, and Spark SQL. The primary goal is to extract data from an external source, perform transformations, and load the transformed data into a Delta Lake table. The project includes proper error handling, data validation, visualization of the transformed data, and an automated trigger for pipeline initiation.
+This project demonstrates the implementation of an ETL (Extract, Transform, Load) pipeline using Databricks, Delta Lake, and Spark SQL. The primary goal is to extract data from an external source, perform transformations, and load the transformed data into a Delta Lake table. The project includes proper error handling, data validation, visualization of the transformed data, and an automated trigger for pipeline initiation. A [Youtube Demo](https://youtu.be/tIDsyCUlhd8) that demonstrates the project is available [here.](https://youtu.be/tIDsyCUlhd8) 
 
 
 ![Alt Text](pipeline.png)
@@ -21,7 +21,7 @@ This project demonstrates the implementation of an ETL (Extract, Transform, Load
 ## Project Components
 
 ### 1. Databricks Notebook
-The Databricks notebook serves as the core of the ETL pipeline. It is responsible for the extraction, transformation, and loading of data. Spark SQL is leveraged for efficient and scalable data transformations.
+The Databricks notebook serves as the core of the ETL pipeline. It is responsible for the extraction, transformation, and loading of data. Spark SQL is leveraged for efficient and scalable data transformations and quality and error checks are presented every step of the way.
 
 <img width="677" alt="Screenshot 2023-11-28 220833" src="https://github.com/osama-shawir/Complex-SQL-Operations-w-Databricks/assets/89782802/9b21ac26-458c-4343-83f3-6d5d5a2c1abc">
 
